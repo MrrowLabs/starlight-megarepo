@@ -78415,5 +78415,6 @@
   "version": ".111",
   "description": "A mega particle pack with over 7k unique textures and 180+ meshes!",
   "thumbnailUri": "rbxassetid://134486441145722",
-  "credits": "saythrt"
+  "credits": "saythrt",
+  "conflicts": ["mrrowlabs/starlight"]
 }
