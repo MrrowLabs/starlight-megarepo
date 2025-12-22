@@ -7,11 +7,12 @@
     "https://raw.githubusercontent.com/MrrowLabs/starlight-megarepo/refs/heads/main/firs_texture_pack.repo.json",
     "https://raw.githubusercontent.com/MrrowLabs/starlight-megarepo/refs/heads/main/ghost_meshkit.repo.json"
   ],
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "The default megarepo that comes prepackaged with your install of Starlight!",
   "thumbnailUri": "rbxassetid://108513556336860",
-  "credits": "metamethods, Saythrt Mega Pack, Fir's Texture Pack",
+  "credits": "metamethods, Saythrt Mega Pack, Fir's Texture Pack, Ghost's Meshkit",
   "conflicts": ["saythrt/mega_pack", "fir/firs_texture_pack"]
 }
+
 
 
