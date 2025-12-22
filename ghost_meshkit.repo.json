@@ -1,0 +1,6342 @@
+{
+  "assets": [
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://77987312084479",
+        "size": 3.4641015529633
+      },
+      "uid": "1002b5e1-a201-4c2d-a8eb-d25d523ebe02",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99567741914290",
+        "size": 3.4641015529633
+      },
+      "uid": "b14ce449-fb0b-4b8e-8304-9b30ceff496d",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://92602781502011",
+        "size": 2.4494898319244
+      },
+      "uid": "f64275b8-7369-4181-96c1-887ba48a32ed",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": { "uri": "rbxassetid://13294271354", "size": 2.8354892730713 },
+      "uid": "4c1aca20-2863-4f78-bd6f-bfd3fabc07ef",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": { "uri": "rbxassetid://125859092136417", "size": 3 },
+      "uid": "e3208d79-64e3-4104-9a69-f4afc106e1f0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://76666848164515",
+        "size": 3.201562166214
+      },
+      "uid": "ff7536d7-acd9-4e7e-addb-7a38091fc1aa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://102533012082133",
+        "size": 1.4142931699753
+      },
+      "uid": "869c93f9-53be-412f-b977-78c2e118b02e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://138116853251907",
+        "size": 2.8284273147583
+      },
+      "uid": "398ffa8c-2157-4437-a903-92e8e0d0939b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://126987010771751",
+        "size": 2.8722813129425
+      },
+      "uid": "ba3aca24-368b-41fd-a56f-8e17fc68fae8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117448611250111",
+        "size": 3.4641015529633
+      },
+      "uid": "cbbc3a9b-2366-4dbf-a59d-b52f33759374",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://113272920859301",
+        "size": 2.8394541740417
+      },
+      "uid": "d4634cd4-0aad-49cf-8511-4cf6bb2112e3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://134638517251759", "size": 3 },
+      "uid": "5b80884e-a560-4e5a-8c9f-a3f18e84e149",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://83547379811979",
+        "size": 3.8105113506317
+      },
+      "uid": "ad188130-197d-4d37-97de-5b6ebba13836",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://110888508251857", "size": 3 },
+      "uid": "f6231242-e176-4d20-9e06-ee60c28513da",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://114252453577485",
+        "size": 1.7320507764816
+      },
+      "uid": "aec9e8a9-03c2-4eab-afac-0786fe8a4fa2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://98243516484104",
+        "size": 3.4641015529633
+      },
+      "uid": "ad92ff79-d371-4443-97df-6f6417a97abc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81718289342648",
+        "size": 3.4641015529633
+      },
+      "uid": "7792a34a-2a27-4ffe-b3a4-f370794328b5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://77893591353149",
+        "size": 3.4641015529633
+      },
+      "uid": "5a1d5a54-ab40-4425-a13b-df8beb5d406f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://109506926333661",
+        "size": 2.2449944019318
+      },
+      "uid": "f5647540-623e-4deb-a181-a0716cbaaae0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138719042460667",
+        "size": 3.4641020298004
+      },
+      "uid": "3fdbb06c-3241-4500-847c-fdbcd24cf0a9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://130376717108787",
+        "size": 3.201562166214
+      },
+      "uid": "62b937e7-238b-44c7-87d0-fcebb5503def",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138947366387268",
+        "size": 3.4641015529633
+      },
+      "uid": "74e49550-d614-4d6f-857d-c00ebe3f8e43",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://105390497607230",
+        "size": 0.96534287929535
+      },
+      "uid": "e719432b-3878-4cd7-9fd4-513cd4573260",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": { "uri": "rbxassetid://97020099870160", "size": 1.762964963913 },
+      "uid": "6132da0a-94d2-462f-83dd-bf3211566dc5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://110350310636724",
+        "size": 2.8301944732666
+      },
+      "uid": "15b36a48-1249-4a40-bb58-37d136965f66",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "textureUri": "rbxassetid://7265756294",
+        "uri": "rbxassetid://87818535868275",
+        "size": 3.4641025066376
+      },
+      "uid": "984fc160-6257-46dd-8afb-3b2d4fee17a9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://74547346779077",
+        "size": 2.8394541740417
+      },
+      "uid": "950e6783-d190-430b-9f06-33ed92eaaed3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://103622411166266",
+        "size": 2.8722813129425
+      },
+      "uid": "e7f49470-9e55-4272-8b24-edf227136293",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://86156700038455",
+        "size": 2.8394541740417
+      },
+      "uid": "64b41cfc-7902-4c40-9e08-375860517a16",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78174321259893",
+        "size": 2.8394541740417
+      },
+      "uid": "298cf339-c7f7-4344-93e2-f960a3e2deda",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://89583671554821",
+        "size": 3.4641015529633
+      },
+      "uid": "3474a9b0-aa3e-49f3-be80-c74c449600ec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://138352550364257",
+        "size": 2.8284273147583
+      },
+      "uid": "5187afe1-f3f7-4800-9d59-4073d714bbb3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://123771453560044",
+        "size": 2.8354904651642
+      },
+      "uid": "eaa4f757-894a-4456-b7d9-71cfa84bc595",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://131240822299826",
+        "size": 1.961754322052
+      },
+      "uid": "4b3e198c-399b-49fc-a84b-ef8cb070a4e4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": {
+        "uri": "rbxassetid://88288815939158",
+        "size": 1.7320507764816
+      },
+      "uid": "2dd6f582-5b37-467b-b8a7-b9ce9d115568",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://102167131706096",
+        "size": 2.2715632915497
+      },
+      "uid": "1e867e6e-2388-4c06-8c4d-aee9b586b9cc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://129040875157666",
+        "size": 2.8354892730713
+      },
+      "uid": "f613f4b7-cfc0-456d-bc6c-08d04fd1f3c2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://81728314111453",
+        "size": 1.7493269443512
+      },
+      "uid": "822404c8-8a18-4c22-b85f-3e25db92bc46",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://106819317700809",
+        "size": 1.4696937799454
+      },
+      "uid": "7b142d8f-276e-42c3-a105-cc3b45c96015",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://74606698709139", "size": 1.600781083107 },
+      "uid": "886062d8-fd97-4002-bf58-f34a9fbdd7c6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://113416481281866",
+        "size": 1.8610483407974
+      },
+      "uid": "15bf2b6a-d963-4149-8d24-623f2abd9693",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113903775519944",
+        "size": 3.4641015529633
+      },
+      "uid": "2bee74f6-b75c-4ffa-9702-dd7ae6c08a7c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99617633305451",
+        "size": 3.4641015529633
+      },
+      "uid": "ab15ce13-894b-46c7-8b36-8734908a2197",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://110924075454326",
+        "size": 1.7320507764816
+      },
+      "uid": "99e43c49-8b08-403b-9f49-8148b2c48500",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://134616568578061",
+        "size": 2.8354892730713
+      },
+      "uid": "95436fbd-cd65-4841-9078-feafca7a9d7b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://110288381264472",
+        "size": 2.8301944732666
+      },
+      "uid": "ecd45c17-3c7b-4cec-884c-ac01d35b2358",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://98234851985725",
+        "size": 1.7579214572906
+      },
+      "uid": "533cfccb-9bac-4464-a2e6-0afc9500b86e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://134017916602905",
+        "size": 2.8354892730713
+      },
+      "uid": "b8e537c3-91e8-4fa7-8507-8fee545d619b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81191772020936",
+        "size": 2.8354892730713
+      },
+      "uid": "1213819e-acf7-426f-9b7f-dc929043dfc1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://100580125065907",
+        "size": 1.4697093963623
+      },
+      "uid": "b270e16e-d11b-420e-a60f-15ff9956d6bd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://89285005952838",
+        "size": 2.8722813129425
+      },
+      "uid": "597ec67b-7752-4b6b-975c-263483cd7897",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://126421011121633",
+        "size": 2.8394541740417
+      },
+      "uid": "00be2845-d03d-431a-972e-61d64281e1de",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://90483246898659",
+        "size": 3.4641015529633
+      },
+      "uid": "f1f40291-c710-4873-8d78-d5031ea89b7a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://106092379156014",
+        "size": 2.8722813129425
+      },
+      "uid": "ddfb60a2-6719-4ecd-9249-f318d8fde784",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://137226081331854",
+        "size": 3.4641015529633
+      },
+      "uid": "d6b35f7b-974b-4665-b6b4-432dcf2410e6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://109436456313357",
+        "size": 1.4361406564713
+      },
+      "uid": "25b052b4-9890-4d39-b372-6c2d667a8c94",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://131179470660323",
+        "size": 3
+      },
+      "uid": "842a3a25-6f3d-4c63-9f42-665a0be62d60",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99556116073633",
+        "size": 1.4696937799454
+      },
+      "uid": "767a2601-107d-43df-a60b-1eb55a11adbc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://104379579391557",
+        "size": 0.89844232797623
+      },
+      "uid": "72288d90-2914-42fc-9b58-0c46a7807dae",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://104291848092518",
+        "size": 3.4641015529633
+      },
+      "uid": "92692586-a35b-46cb-9056-cb27e8815885",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108019840544648",
+        "size": 2.8354892730713
+      },
+      "uid": "1aae04f0-ec5d-4929-aa87-efaf6f5f0205",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://126042143076837",
+        "size": 3.4641015529633
+      },
+      "uid": "52c88f9b-fc29-40b9-9cfb-d49baeee4b22",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://101082229371471",
+        "size": 1.2387964725494
+      },
+      "uid": "2d841e28-d554-4b4f-b776-9557869e45a3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103043956171280",
+        "size": 2.8394541740417
+      },
+      "uid": "3b3a428e-61f0-4875-8e8f-6553ecd66b1f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://100249960586746",
+        "size": 2.0939385890961
+      },
+      "uid": "4c0a688c-f1ca-4d43-9828-dcee6fecc800",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://88120312091728",
+        "size": 1.5564385652542
+      },
+      "uid": "1ea352fb-cd8e-4950-830c-6d21189af570",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://87091365838752",
+        "size": 1.5281612873077
+      },
+      "uid": "ae7e53f4-ad50-4dfb-a0b4-80a2bb1ce34a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78603000741509",
+        "size": 3.4641015529633
+      },
+      "uid": "e345430e-ca6c-48ca-9e80-c32be0fb108f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://75452038452219",
+        "size": 2.8394541740417
+      },
+      "uid": "bb5d4846-1e0c-475b-a27c-595ccdc919f7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://107177877485816",
+        "size": 3.4641015529633
+      },
+      "uid": "3785079d-8120-42a6-8644-9ba846166e45",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://89165101624851",
+        "size": 3.5074031352997
+      },
+      "uid": "8bcfb7d8-6335-472b-bbb0-c0fed1902d82",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116914053159872",
+        "size": 3.4641015529633
+      },
+      "uid": "3a836398-23af-4e43-9c25-2d509b78c87c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://86572719373934",
+        "size": 2.8354892730713
+      },
+      "uid": "6114007b-7f5e-4b65-bd07-c9b2292d4f15",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": {
+        "uri": "rbxassetid://126831692731308",
+        "size": 3.4641015529633
+      },
+      "uid": "eab839c7-c96d-4401-910e-47f55d8ecd15",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://125884842464536",
+        "size": 1.7320507764816
+      },
+      "uid": "a36a7005-634b-4768-be37-46c6175cbf78",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://105766467041317",
+        "size": 3.8105113506317
+      },
+      "uid": "c9fa665d-9e7d-4172-8fd1-eedc79f1889c",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://87530989421649",
+        "size": 2.8722813129425
+      },
+      "uid": "b41f00ee-b514-46fe-a307-409322a251de",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://130713956873441",
+        "size": 3.4641015529633
+      },
+      "uid": "56124d8c-f940-4b89-ba17-758ce3b5d2b8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": {
+        "uri": "rbxassetid://121525638650898",
+        "size": 3.201562166214
+      },
+      "uid": "40ad4fc6-b27b-48d0-8695-3a781b21547d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://101518002425131",
+        "size": 3.4641015529633
+      },
+      "uid": "44922f82-f076-43e0-aa39-9a60495350d1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://116581811912357",
+        "size": 1.7249898910522
+      },
+      "uid": "4643f784-b14b-4b2c-acbc-98ed7733f092",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://91286525042903",
+        "size": 3.4641015529633
+      },
+      "uid": "c04e24e7-0f78-4452-ac35-9d3413ad61db",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103192400313404",
+        "size": 2.8394541740417
+      },
+      "uid": "16ee6afd-5066-4381-b1eb-4df714340f3a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://131409279383748",
+        "size": 2.2715632915497
+      },
+      "uid": "60f59f3b-a592-4a30-9c7b-a79300a79df9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://90812247129501",
+        "size": 3
+      },
+      "uid": "8a503a44-2aaf-4ade-9205-126b641abab4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://137107867536215",
+        "size": 2.8354892730713
+      },
+      "uid": "cd698bfc-0dcd-4ccf-8c1e-58f21df98b68",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://120030811290120",
+        "size": 3.4641025066376
+      },
+      "uid": "b96e378b-380d-4b7e-b398-97ad891719c8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": {
+        "uri": "rbxassetid://87525204626115",
+        "size": 1.7320507764816
+      },
+      "uid": "5a342687-a84d-440f-b5bd-9528f01544d5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": { "uri": "rbxassetid://15282816613", "size": 1.7320507764816 },
+      "uid": "5ebd6409-8447-449d-9f5f-4319810fd035",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://109939873912379", "size": 3 },
+      "uid": "a3ea2c4d-ec23-4874-974b-429e6a662b5a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://94668072864701", "size": 1.5 },
+      "uid": "3ff11fbf-ab78-4354-9f02-1e9e8615e9ed",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://90926886056953",
+        "size": 2.8722813129425
+      },
+      "uid": "f8764186-3b24-4892-ab25-3aab98d19a84",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://86195496170434",
+        "size": 2.2912878990173
+      },
+      "uid": "5bd3b215-259f-42dd-862c-f66ae1ce1ead",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://80448620415400",
+        "size": 2.8722813129425
+      },
+      "uid": "5812bd4d-b69d-4a76-96dc-52331e9317db",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://114536806653897",
+        "size": 2.8354892730713
+      },
+      "uid": "388300f4-947f-41cf-b1f5-9c4feb90fcd5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": { "uri": "rbxassetid://97156724288517", "size": 3.201562166214 },
+      "uid": "4cde52a5-718d-4d61-a102-a1de6bd34253",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://14011476549", "size": 2.8722813129425 },
+      "uid": "25d5a070-7fee-40f8-876c-4f205c4228e4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://86834143257764",
+        "size": 2.8284273147583
+      },
+      "uid": "baef8bf8-3c94-4253-b4bf-ebc426abf902",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://74776119963354",
+        "size": 1.4282857179642
+      },
+      "uid": "9431b6ed-c677-4cca-b504-93a9bfacbeec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://109982079395622",
+        "size": 1.4966670274734
+      },
+      "uid": "0dac4b5c-c1fc-4cfd-8935-02b7fbb1cf5f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://132618313848757",
+        "size": 2.2715632915497
+      },
+      "uid": "aff91ad7-6e66-471c-a6e5-9a67cc99e043",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://116507010892742",
+        "size": 0.73619097471237
+      },
+      "uid": "6a85f6b8-07c3-4302-9803-22b100cf32fc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://71104676360096",
+        "size": 2.2449944019318
+      },
+      "uid": "2e9d98b3-17c4-4d2d-bc4b-8447ccb8dd92",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://77826610154227",
+        "size": 1.3116664886475
+      },
+      "uid": "5ce87938-5471-4fd1-a0f4-d8ec361f536e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://94767598045156",
+        "size": 2.8722813129425
+      },
+      "uid": "0c92dff2-00ee-4707-b8a5-1fa881060977",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://90927367127179",
+        "size": 3.0822069644928
+      },
+      "uid": "c280809d-2c63-4645-9baf-134fe9861d39",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://122517630824864",
+        "size": 3.8105113506317
+      },
+      "uid": "e174fdb8-8633-4464-971a-bce697b289b0",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://112618925490161",
+        "size": 2.8324017524719
+      },
+      "uid": "d3d1935c-d67e-4c8b-b2b2-3679903fb237",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://138506024099603",
+        "size": 2.4494898319244
+      },
+      "uid": "79d74585-3a52-4593-b312-bd1c672c0d24",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://75980002518873",
+        "size": 3.4641015529633
+      },
+      "uid": "04f033bf-eed8-4eff-b665-f7f6917bedb0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://135846038382667",
+        "size": 3.4641015529633
+      },
+      "uid": "6bff3a49-36e2-493a-8317-80522fcf4b2b",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://99879809296885",
+        "size": 3
+      },
+      "uid": "c56f9475-c595-4304-a641-d8d78993807d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Debris Ring",
+      "tags": ["ring", "debris"],
+      "inner": {
+        "uri": "rbxassetid://91204106967241",
+        "size": 2.2418332099915
+      },
+      "uid": "813d0ce6-ae6d-4419-97cb-f929e3578c6f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://90985334722018",
+        "size": 2.8418657779694
+      },
+      "uid": "d2a9a533-ba68-4ea4-8d69-e03ceb4f7071",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://77473652894497",
+        "size": 0.56379783153534
+      },
+      "uid": "a8f74c83-32e8-49fc-82ca-1210d3cbda59",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://77843969931183",
+        "size": 1.6627844572067
+      },
+      "uid": "c8098413-00ae-47e7-a2ee-3fbfba3d8c7a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://136675403260606",
+        "size": 2.4494898319244
+      },
+      "uid": "6ed4b818-6238-4279-8acc-0d0638b78b97",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Debris Ring",
+      "tags": ["ring", "debris"],
+      "inner": {
+        "uri": "rbxassetid://101901137359080",
+        "size": 1.8984562158585
+      },
+      "uid": "ddf91705-0ce7-4351-b00a-92c25f459677",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://72891469949098",
+        "size": 1.7320507764816
+      },
+      "uid": "fbde92df-f173-4b10-8f18-b274314bf7b1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78866593407401",
+        "size": 2.8301944732666
+      },
+      "uid": "b2938fbd-a652-4009-b250-152cada95d76",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://90823199498578",
+        "size": 1.2538529634476
+      },
+      "uid": "568cf092-49dd-4421-b43c-364e8dc692d0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://130397030140126",
+        "size": 3.4641015529633
+      },
+      "uid": "8c5e6522-d333-41db-9f6b-7cb262f583ce",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://131308452151444",
+        "size": 3.4641015529633
+      },
+      "uid": "faca3b78-4978-429a-9ce1-2e0aa8bd67c3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": { "uri": "rbxassetid://15106252612", "size": 3.4641015529633 },
+      "uid": "9285f4b5-87ea-4edf-b1ba-c4a563dd5386",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://94933438034105",
+        "size": 3.4641015529633
+      },
+      "uid": "73701ed9-40e0-479a-9f97-8723f82c83c8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://109126357509873",
+        "size": 0.86310988664627
+      },
+      "uid": "63454f52-a5d0-435e-9fdc-ccc55aeea5bf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://115944333090977",
+        "size": 3.4641015529633
+      },
+      "uid": "d3729664-82c2-465c-880a-ffb4e6b756a1",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://95271180653983",
+        "size": 2.8354892730713
+      },
+      "uid": "2b92031b-01ef-45fb-a02a-e54f12e1ea28",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116981991047921",
+        "size": 2.2715618610382
+      },
+      "uid": "e43f7c87-bb4e-4b8a-b0c7-1490f4680254",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": {
+        "uri": "rbxassetid://83263660167112",
+        "size": 1.7320507764816
+      },
+      "uid": "18ba89bb-33bd-425d-b173-4d187b17a5a1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://138796206718429", "size": 3 },
+      "uid": "fb5b806d-199d-449b-af34-6d638fcd2c66",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://102057097074307",
+        "size": 2.8301944732666
+      },
+      "uid": "ce35a5ad-55c6-4a7d-b597-79213f5f4ead",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://118653942750233",
+        "size": 2.8722813129425
+      },
+      "uid": "b38abc81-110a-4abe-b611-452dcabad0de",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://100888351140148", "size": 1.5 },
+      "uid": "fefc7562-44cc-4157-adf4-40db187efe05",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17439184671", "size": 1.4361406564713 },
+      "uid": "c475fada-e3e0-4f79-92e4-95a562f4afb8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": { "uri": "rbxassetid://72807241046968", "size": 2.835489988327 },
+      "uid": "09ab37a0-b147-4ee2-a3d3-a90609e11e13",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://136139940599401",
+        "size": 1.2247449159622
+      },
+      "uid": "3dcc9038-3400-4232-a998-8bf066e7277a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://110590440883074",
+        "size": 2.8354892730713
+      },
+      "uid": "24b98ef1-bb11-490b-8990-3e01db41bf67",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://107451552211129",
+        "size": 1.7320507764816
+      },
+      "uid": "30d502d2-b493-4cfa-95a4-b9c1d62df6ca",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://129768380869562",
+        "size": 3.4641015529633
+      },
+      "uid": "8f6ebabc-98bc-4a58-9f54-d947f4d8ace9",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103941920584978",
+        "size": 3.4641015529633
+      },
+      "uid": "61ab948d-6906-441f-a92b-aa5fd75f086c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": { "uri": "rbxassetid://13490279224", "size": 3.4606378078461 },
+      "uid": "e83e16ef-4c57-41e4-ae64-32b2d4a4b873",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://84539052227993",
+        "size": 3.4641032218933
+      },
+      "uid": "4962c461-da2d-48d7-89b8-05d501f5aa24",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://130365163991455",
+        "size": 1.679691195488
+      },
+      "uid": "547f4a61-85d2-4d44-9462-3384161710b3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99707361971195",
+        "size": 3.4641015529633
+      },
+      "uid": "923cf579-aa2f-4e75-9582-73f67b7e811c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://119380920142414",
+        "size": 2.8354904651642
+      },
+      "uid": "3f956c20-85de-4d47-8292-e4b9de5112f8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://116105627145908",
+        "size": 1.4361406564713
+      },
+      "uid": "35a360f2-eb2b-4a9a-9789-61f1184b4619",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117153403327214",
+        "size": 2.8324017524719
+      },
+      "uid": "1b27cff5-ee44-40ce-9df4-535e8b713ec7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://133864608262500",
+        "size": 3.4641015529633
+      },
+      "uid": "21f9ec1d-1979-4f2d-9b5c-120a8f014334",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://71090277785683",
+        "size": 2.8354892730713
+      },
+      "uid": "32d1e12c-2dce-4e46-88f7-d535f7b46c0b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://119067761681705",
+        "size": 2.8394541740417
+      },
+      "uid": "6482bcf5-6b28-4cd7-8aa2-e811b237155b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://130854487701802",
+        "size": 3.4641015529633
+      },
+      "uid": "6398e3cf-4333-4126-bcb4-c5c0885825bd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://122461581508296",
+        "size": 2.8394541740417
+      },
+      "uid": "88e8366e-1531-444e-925d-24c2126d448b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://73499298401230",
+        "size": 3.4641015529633
+      },
+      "uid": "6f1f2609-4731-4cfe-a300-02cdaa3bd601",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://140145332759993",
+        "size": 2.0214071273804
+      },
+      "uid": "da7ab642-483f-45b9-918f-52feea8fbde3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://130515354614178",
+        "size": 3.4641015529633
+      },
+      "uid": "d9cb812b-818f-4eaa-8b1c-73405335b812",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://94157167353398",
+        "size": 3
+      },
+      "uid": "b91cef63-eb0e-4dbe-9409-457ac10bf54c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://76162346787502",
+        "size": 3.4641015529633
+      },
+      "uid": "e46e167c-081a-4d38-9031-5c90e11fc284",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://99526708579684",
+        "size": 3.4641015529633
+      },
+      "uid": "132afbd0-fa9c-457b-9024-79699ebedfdb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://139179753917366",
+        "size": 3.4641015529633
+      },
+      "uid": "c8f85ffd-1145-4215-8406-66532dfa2401",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81814994849180",
+        "size": 3.4641015529633
+      },
+      "uid": "ecd9d971-c14c-4dc3-af92-85ff376502d2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://140526741771350",
+        "size": 3.4641015529633
+      },
+      "uid": "d06f8099-4c30-41ba-af9b-6743457d082d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://102098134607179",
+        "size": 2.2449944019318
+      },
+      "uid": "98ec5eee-2923-4a8f-8f1e-8cea54d28ff4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": {
+        "uri": "rbxassetid://109235842513080",
+        "size": 3.201562166214
+      },
+      "uid": "b4a9ec47-797a-4ab6-9a51-5d4e6daf6a26",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108323623079179",
+        "size": 3.4641032218933
+      },
+      "uid": "9d5d50e5-c06f-413c-ad25-8184a96fe265",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://89170617701160",
+        "size": 2.4494898319244
+      },
+      "uid": "47df5a21-f06a-4dde-9884-e59d75d9425d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://116601051259895",
+        "size": 1.7320507764816
+      },
+      "uid": "e8ce70d8-f9ec-4a8f-af03-0a41b22fce91",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://96550256817379",
+        "size": 3.4641015529633
+      },
+      "uid": "9e7debb1-4433-40ed-b7d6-659de781771f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://91126013497920",
+        "size": 2.8354892730713
+      },
+      "uid": "d426dbb8-9785-4670-88b4-da60759c137b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": {
+        "uri": "rbxassetid://115732652650726",
+        "size": 1.7320507764816
+      },
+      "uid": "ee518c1d-e03c-4044-b7ed-dfd09ada32b4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://126847106463602",
+        "size": 3.4641015529633
+      },
+      "uid": "3924f3e3-096c-4438-a163-bbe10c925b85",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://85022348421982",
+        "size": 1.1723566055298
+      },
+      "uid": "4f93b4d8-64e6-4615-97c1-c8dc090b2d71",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": { "uri": "rbxassetid://77839298547978", "size": 3.464102268219 },
+      "uid": "d670de92-605d-4d4f-8cf9-fc906db04468",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://80641671500791", "size": 3.201562166214 },
+      "uid": "d120d40e-2878-4da0-bdeb-9fd0648f9dd6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://111390932311847",
+        "size": 3.4641015529633
+      },
+      "uid": "75df1d14-43e0-494e-9dd0-6d80444d00d7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://96802352477595", "size": 3.201562166214 },
+      "uid": "059d9794-dc91-4f73-bab9-501179a5e396",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://124938198231234",
+        "size": 3.4641015529633
+      },
+      "uid": "b4d8ce2d-4693-4ff5-ad60-513562d0193e",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://140080416858006",
+        "size": 1.6851216554642
+      },
+      "uid": "ccbbeedd-90cb-455a-ae03-ee562927d540",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://75098215181264",
+        "size": 2.2715632915497
+      },
+      "uid": "40c11168-b8c1-4b4a-ad1b-4fe04087f951",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136824536895271",
+        "size": 3.4641015529633
+      },
+      "uid": "8728d61d-9388-4b42-9e3f-9348931bfb6d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://129186199763177",
+        "size": 3.4641015529633
+      },
+      "uid": "2f75f2f6-ffce-4f09-b26c-981ac75636b3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://115230640559555",
+        "size": 1.7320507764816
+      },
+      "uid": "d19b44aa-d0f1-4f4d-a01b-61b34fcdb3c8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://79613192242591",
+        "size": 2.8722813129425
+      },
+      "uid": "759e6f21-72f1-4bed-9b3b-79fe7a1c8c83",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://95143416362363",
+        "size": 1.7320507764816
+      },
+      "uid": "d0831675-2ffe-45c2-98e2-22111a8e39be",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://120962249127421",
+        "size": 1.4696937799454
+      },
+      "uid": "7bec2990-0344-4d2b-9979-370d55d9ab29",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://128893638013710",
+        "size": 2.2715632915497
+      },
+      "uid": "05c00cf3-78d4-416e-a355-83571fad70fc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://80623237322533",
+        "size": 2.2449944019318
+      },
+      "uid": "6c63cb3d-9f87-4bde-9a7a-74693fa43d4c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://118444359905892",
+        "size": 3.4641015529633
+      },
+      "uid": "29d13774-9c7b-4ae7-9302-19f0b8446910",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136353679547936",
+        "size": 3.4641015529633
+      },
+      "uid": "f9419be8-2f64-4059-aac9-27572c93e52d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://95349728150082",
+        "size": 2.8354892730713
+      },
+      "uid": "fcd25227-4b4b-423a-adaa-50a748b6d73c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://112991337399012",
+        "size": 2.8324017524719
+      },
+      "uid": "50b77823-aeb1-4f70-a812-e2b874ac3dfb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Horn",
+      "tags": ["horn"],
+      "inner": {
+        "uri": "rbxassetid://117108925585792",
+        "size": 1.5016657114029
+      },
+      "uid": "587b3521-2ee6-4292-b927-fccd6fa89045",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://97578678807771",
+        "size": 1.6410157680511
+      },
+      "uid": "9cb9dd84-a163-4ef3-bb55-8f44a4383dcb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://124284930550490",
+        "size": 2.8301944732666
+      },
+      "uid": "118e5eca-0513-4630-b681-166c21e2cbf0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://93332545980181",
+        "size": 2.1213202476501
+      },
+      "uid": "f6bba829-080c-4e97-aade-6de76b129eee",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://91199450728426",
+        "size": 2.8354892730713
+      },
+      "uid": "665277cd-d099-435c-b920-b4d96f708ced",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://135751673958331",
+        "size": 1.5253131389618
+      },
+      "uid": "12af8f2d-6ee0-4228-a7c8-f3ac0b0c862a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108394724331742",
+        "size": 2.8324017524719
+      },
+      "uid": "59e18bd1-cf1c-49f0-a0f9-0aef4b9f4aaf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://95150935991902",
+        "size": 1.7320507764816
+      },
+      "uid": "62d81849-3000-40e3-b2c9-02d3360806b5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://78232743352292",
+        "size": 1.7723371982574
+      },
+      "uid": "0b4e8fce-d43f-4e4f-ab08-51c90166b268",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://70929945332674",
+        "size": 3.4641015529633
+      },
+      "uid": "d6232e37-166e-48ca-ab20-3047ecc9b718",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89752695737976",
+        "size": 2.8354892730713
+      },
+      "uid": "d027cbfd-1b1a-4f9f-ae85-76a35c007b70",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://94722208015883",
+        "size": 1.7320507764816
+      },
+      "uid": "6c65127f-70bc-4398-ad45-15df77d1b87c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://130138509605066",
+        "size": 2.4459149837494
+      },
+      "uid": "f5968f33-f6fd-4b68-ac11-2b662e9db7e0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103407361576276",
+        "size": 1.4696937799454
+      },
+      "uid": "2e0d1a2a-a1ee-4a43-ad50-5b64ff2a8b7d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://71375669854814",
+        "size": 3.4641015529633
+      },
+      "uid": "dd474b2f-0d27-4105-a32c-202bb18827b7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://85019058473784",
+        "size": 1.4697093963623
+      },
+      "uid": "892ae9d6-a34a-4eae-89f7-daced6ec49af",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://105889443284933",
+        "size": 2.8354892730713
+      },
+      "uid": "5a9ea9a6-dea5-4a1e-b7df-f42408bcc341",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://102417397769002", "size": 1.5 },
+      "uid": "e55f8401-87ec-49a5-9378-45b39b0bec84",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://129027601369621",
+        "size": 2.4494898319244
+      },
+      "uid": "a53dcdee-b170-4c29-a974-6ab17c2b01ba",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://112437873024786",
+        "size": 3
+      },
+      "uid": "d1400f20-aade-45b1-81ae-91fc806274c2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": { "uri": "rbxassetid://99129025676825", "size": 3.201562166214 },
+      "uid": "a874a961-a0ee-47de-9f48-0e0291f63ca4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://79386851924930",
+        "size": 2.2715632915497
+      },
+      "uid": "5223cbce-eea5-45f8-b236-83e352a20ff4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108886735739283",
+        "size": 2.8301944732666
+      },
+      "uid": "dc24188b-3b3a-4d16-a6c8-5eb311ae5128",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": { "uri": "rbxassetid://18182317194", "size": 2.0615527629852 },
+      "uid": "357051f8-a3e4-45a8-81f0-0f299ab3ea3d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://135251514230777",
+        "size": 1.7320507764816
+      },
+      "uid": "a624d6c5-b560-49ca-aba8-7595d636b5ca",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://74121900110537",
+        "size": 3.4641015529633
+      },
+      "uid": "f9101cf1-6c8f-45b5-8afd-37f5b211dee6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://134372229103584",
+        "size": 3.464102268219
+      },
+      "uid": "cc0190e8-8249-4392-89c7-3b93a7f0635e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://139774704268302",
+        "size": 1.4144345521927
+      },
+      "uid": "e3700aba-3f75-44be-91a9-0cac9508a898",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://124715798190296",
+        "size": 2.2715632915497
+      },
+      "uid": "960d473a-e272-4b80-8694-3a8ba25360cb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99562313432931",
+        "size": 3.4641015529633
+      },
+      "uid": "00a2d72d-6462-4266-a88f-32f905d8259a",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": {
+        "uri": "rbxassetid://74576932731126",
+        "size": 2.4520633220673
+      },
+      "uid": "1f010819-9acd-4446-a764-fcb0c3530637",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97257489343585",
+        "size": 1.4696937799454
+      },
+      "uid": "fea2b869-17d0-47b2-adda-9caa575b80ab",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://132858296177802",
+        "size": 2.8722813129425
+      },
+      "uid": "aeb2ce4d-2b0c-481e-a6be-c74bbb69b386",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136016446466536",
+        "size": 3.201562166214
+      },
+      "uid": "0dbd0477-7fb6-4ad7-a6b1-01641271be49",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": {
+        "uri": "rbxassetid://119319189883365",
+        "size": 3.4641015529633
+      },
+      "uid": "435beb09-6b7c-4540-94b9-95f9c6fd4102",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://129063608869140",
+        "size": 3.4641032218933
+      },
+      "uid": "8fb0d678-68cb-4969-a3e2-8e8f85392436",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://135586802084750",
+        "size": 2.8394541740417
+      },
+      "uid": "782b0750-56b2-47f0-b0df-d5f1feb0b8f2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://81939872081414",
+        "size": 1.7320507764816
+      },
+      "uid": "20ee2c35-b2b3-462f-a56f-f3e00ee5ab68",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://137277855232498",
+        "size": 3.4641015529633
+      },
+      "uid": "c00905c6-ab52-46cd-9489-3ff1f60f785b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89937137292269",
+        "size": 3.4641015529633
+      },
+      "uid": "3032815c-1ace-4b9c-9837-67f2147ef14d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96597853029591",
+        "size": 2.2715632915497
+      },
+      "uid": "26735fee-cc6e-4300-80a7-205ab1648194",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://88347797129389",
+        "size": 3.4641015529633
+      },
+      "uid": "24a59e8a-0ba6-4d2a-a29b-17c0e75967e0",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://70394478588318",
+        "size": 1.7320507764816
+      },
+      "uid": "d0c44e01-58b5-475a-9fb8-fa4c077d57a1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108223404375513",
+        "size": 3.4641029834747
+      },
+      "uid": "2da93baf-7837-40af-92c8-b87ebfa0fcb4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://90262156470167",
+        "size": 2.8354892730713
+      },
+      "uid": "7b701abe-f3d0-4eb6-a583-a153bb7d4670",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://115822170711020",
+        "size": 3.4641015529633
+      },
+      "uid": "4c80d339-2133-4952-92c4-279a67828d1d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://110729403860943", "size": 2.25 },
+      "uid": "30ff7926-076c-4bac-bebf-01dc5c12bb9b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://107847329935053",
+        "size": 3.4641017913818
+      },
+      "uid": "118e7afd-aa6d-41da-9d1d-0827ff076841",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": { "uri": "rbxassetid://13490279239", "size": 3.4606375694275 },
+      "uid": "877d0e1e-fbbc-4c3d-90b8-8583617b4fc8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://140508804264141",
+        "size": 3.0822069644928
+      },
+      "uid": "6ea9b292-9cd1-45e5-b5ce-82c117ee6d31",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": { "uri": "rbxassetid://105129930411979", "size": 1.7724827528 },
+      "uid": "feb52417-3996-4ee3-a536-9b484d2e2623",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": { "uri": "rbxassetid://79438009534508", "size": 3 },
+      "uid": "eae13215-cf82-44b2-96a6-052903f84fc8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://102484161930284",
+        "size": 1.600781083107
+      },
+      "uid": "845faf2c-3e1c-4570-a7ce-96dcc786cb54",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117413345914335",
+        "size": 2.8324017524719
+      },
+      "uid": "eaf7d144-12bd-4f3d-91f6-5b14b160e46d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://96640138522427",
+        "size": 2.2383029460907
+      },
+      "uid": "1c0956b9-33a2-477b-b182-7e8a387dada7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://71270137402186",
+        "size": 2.2715632915497
+      },
+      "uid": "2356bb43-9f6d-4832-a977-97c84c4c2e0f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96530686079855",
+        "size": 3.8105113506317
+      },
+      "uid": "cb563d1e-9359-4a2d-abd8-0e7fc4b0aa7c",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://95959309199148",
+        "size": 2.8722813129425
+      },
+      "uid": "3353a6ef-829c-4334-a36b-f15c0f7ad8d6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://113468572607228", "size": 3 },
+      "uid": "dfb4ad1a-12b0-4265-a08f-6c54715eb541",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113181012844201",
+        "size": 3.201562166214
+      },
+      "uid": "6184d949-c9f5-4153-8a81-9aea0ebda977",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113119457336877",
+        "size": 2.8354892730713
+      },
+      "uid": "60b57923-d20c-49e6-a3dd-cf08b24d4dc5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103828109207244",
+        "size": 2.8354892730713
+      },
+      "uid": "34d3393e-f3b4-4e28-b689-9a4f82ae7a50",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103256847699252",
+        "size": 1.4696937799454
+      },
+      "uid": "63beb075-8240-4fe7-8f5b-c7717c964bbb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://99758970055045",
+        "size": 1.8878152370453
+      },
+      "uid": "d0b4f1d7-44cd-4b79-9e47-78e973d67bd0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://119938602294117",
+        "size": 2.8722813129425
+      },
+      "uid": "236af44c-449a-4772-87ae-9ccd02e3013e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://86433317991395",
+        "size": 2.1511249542236
+      },
+      "uid": "ee32793f-7b46-4616-bf8f-e76de2c5c2d3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://135846038382667",
+        "size": 3.4641015529633
+      },
+      "uid": "0287f913-4c83-430a-b71f-f8c496081e7c",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://97837087123778", "size": 1.5 },
+      "uid": "084f7e7e-1f2f-4116-a6c8-fc22b813c973",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://116309038552133",
+        "size": 1.7320507764816
+      },
+      "uid": "c7a0e01b-f704-4f94-aff9-a5ccc269a7aa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://76792720886658",
+        "size": 1.4696937799454
+      },
+      "uid": "26d6b419-4c79-40d2-bf68-ea054698a2be",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://112595161689481",
+        "size": 2.4494898319244
+      },
+      "uid": "7fd9f2e0-0435-41e4-8dc9-ed028dbbb5fa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://83228101001711",
+        "size": 3.4641032218933
+      },
+      "uid": "c63f37f8-8ac6-437a-b6ba-5202b66fc9eb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://75576154940281",
+        "size": 3.4641015529633
+      },
+      "uid": "1ce62ff3-6f07-4443-9f15-a5d4f8470868",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://133914960927393",
+        "size": 3.4641015529633
+      },
+      "uid": "e953639b-42f1-4906-a10d-61a418594eea",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://105579260401130",
+        "size": 3.4641015529633
+      },
+      "uid": "a963b3fa-41f0-4b4f-ba85-5c411e7f0713",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97936622722234",
+        "size": 2.8354892730713
+      },
+      "uid": "feb817ea-3509-4829-b4d0-48cf378be452",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://71087786916142", "size": 3.201562166214 },
+      "uid": "a55af468-c74a-4d38-9928-b27b38ea73ae",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://122234022789475",
+        "size": 1.7808849811554
+      },
+      "uid": "23d89215-4991-450a-9efe-c80bc2af1bd1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://123585459268420",
+        "size": 2.8722813129425
+      },
+      "uid": "e32bbc8d-a616-4c36-9ba1-ed9f78b710b6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://75331017321484",
+        "size": 1.7320507764816
+      },
+      "uid": "66d5b196-2bb3-4e5c-aa76-c6d96f83a7a2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://93651464663051",
+        "size": 1.4468623399734
+      },
+      "uid": "489bc649-0b5f-4455-991a-51eaf6934f34",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://130521134881579",
+        "size": 2.8354904651642
+      },
+      "uid": "8a45e362-4914-4d08-9cd2-e83cf1af7e89",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://113889461097770",
+        "size": 1.3157002925873
+      },
+      "uid": "800369ac-9d27-4082-8218-b578ab2af4dc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://135893251448310",
+        "size": 0.73771917819977
+      },
+      "uid": "83428296-bdcd-4630-b1a9-fd47bd42280c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://132130977059057",
+        "size": 1.9519220590591
+      },
+      "uid": "c7958584-3c3e-41bb-92dd-a7e101d6279a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://96128997966832",
+        "size": 2.2449944019318
+      },
+      "uid": "962b87af-7671-4c0e-8fad-f72671e14168",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://70734664846260",
+        "size": 2.2715632915497
+      },
+      "uid": "e292faf8-4773-466e-b099-6fdca9614400",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89538172581384",
+        "size": 2.8394541740417
+      },
+      "uid": "6b1aaab3-4949-4cdc-b0ec-60e7f55b9e33",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117817742699620",
+        "size": 3.4641015529633
+      },
+      "uid": "0d852a45-7fc9-4d73-a1ba-7976c926f9c7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://134126531785958",
+        "size": 1.7990362644196
+      },
+      "uid": "bf361fdd-c683-4e95-8ff6-2cbe89bc10aa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://85949717871546",
+        "size": 2.8369700908661
+      },
+      "uid": "5568c1f5-f7a9-497c-b5fe-b6d325fb3aca",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://127435030292278",
+        "size": 2.2449944019318
+      },
+      "uid": "d37ff879-2348-4bd0-a67d-a8b6825b3edc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://121625562424774",
+        "size": 2.8394541740417
+      },
+      "uid": "9e988826-7ce5-43d0-8260-3d771dedcbb6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://91655231613329",
+        "size": 2.2449944019318
+      },
+      "uid": "5c118da6-a758-4920-9536-100c02fd0e68",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": { "uri": "rbxassetid://18182317165", "size": 2.4494898319244 },
+      "uid": "51e82a9c-8a84-4899-a5d4-21655c67b32c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117923880244405",
+        "size": 3.4641015529633
+      },
+      "uid": "713024fc-dbf0-4f42-85cd-48ef27210d4f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://72113917713926",
+        "size": 1.4966670274734
+      },
+      "uid": "d1a08210-0e1e-4049-bcab-47ce267e27c0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": { "uri": "rbxassetid://16943955412", "size": 2.8394541740417 },
+      "uid": "e80f0608-260b-4a4d-bea9-7985cc9aa2b7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://77009845572816",
+        "size": 0.7377924323082
+      },
+      "uid": "fb05c6b6-5f27-4f13-a541-615c5c955ed0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89387405826312",
+        "size": 2.8354892730713
+      },
+      "uid": "b68f53e8-2e9f-4d16-bd71-1627f811c88e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://125278760478680",
+        "size": 2.2715632915497
+      },
+      "uid": "92d784f4-997c-45c5-9929-119398f066a6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://74127204621095",
+        "size": 1.5266388654709
+      },
+      "uid": "e667fcbe-1e59-4da6-9943-f54cc94dcd02",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://111847167695008",
+        "size": 3.4641015529633
+      },
+      "uid": "db8c1de1-19e5-422e-8014-28c458264276",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://116266101805118",
+        "size": 3.201562166214
+      },
+      "uid": "ac50e091-2cc0-4d76-99ad-1f2ff0aace5a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://125887164091518",
+        "size": 2.8324017524719
+      },
+      "uid": "d8379b38-1a04-4fb2-b611-766f0f2c234d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://82512982877788",
+        "size": 3.4641015529633
+      },
+      "uid": "41633b97-d46a-4e07-92ab-dc30bf262e65",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": { "uri": "rbxassetid://80162681446547", "size": 1.5 },
+      "uid": "f456a6a2-2674-40ad-b93a-5713bade68ec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://73139888398678",
+        "size": 3.4641015529633
+      },
+      "uid": "a353de4f-dc05-45ff-ad9e-22bcaf1441be",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://117185792426138",
+        "size": 3.4641015529633
+      },
+      "uid": "d7bfa345-ff8e-4e4a-91c9-0fe6be5f2330",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://120741058473377",
+        "size": 1.4696915149689
+      },
+      "uid": "898aed51-65f0-434c-80c9-d40c46eaa9c0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113844515965583",
+        "size": 2.8722813129425
+      },
+      "uid": "eb2d9c9a-77c3-4dd8-a081-febfc97c4b6e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://123803200643155",
+        "size": 2.2715632915497
+      },
+      "uid": "6daedc1e-e0e5-4d7c-9460-2cc31d034c91",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://93432628103937",
+        "size": 3.4641015529633
+      },
+      "uid": "b43c9572-73fd-4ed0-b2b1-290d15f366dd",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96529658942397",
+        "size": 2.8394541740417
+      },
+      "uid": "854f4eec-fdbc-4043-9feb-0a4f944ba2fe",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://96066001979696",
+        "size": 1.7320507764816
+      },
+      "uid": "f848017c-8e9a-480b-a444-b86c7410f1d4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://85340129061113",
+        "size": 2.2715632915497
+      },
+      "uid": "f56bad46-3d70-4023-bcfb-c0e99b663327",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://117009213274232",
+        "size": 1.1723572015762
+      },
+      "uid": "b8f1f88e-1c88-4917-bfcb-7ecfd90668d8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://115353797168739",
+        "size": 1.4361406564713
+      },
+      "uid": "625e5626-3130-4bba-92ef-6a4112427ea9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://98865221694036",
+        "size": 3.4641015529633
+      },
+      "uid": "8349f54d-17de-45b2-b9b8-fec9ac9b63ae",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://95002981872090",
+        "size": 1.7320507764816
+      },
+      "uid": "c445f75e-55cf-4c26-8867-e2bc37fc741f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://134734342468469",
+        "size": 2.1283795833588
+      },
+      "uid": "3cb86888-f59b-4c76-8e8c-520f9f0bf1cf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://96485343068847",
+        "size": 2.0414741039276
+      },
+      "uid": "43f98635-85eb-4c76-adaf-71440f84b44b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://90058011194137",
+        "size": 2.8722813129425
+      },
+      "uid": "dfdcefa3-74de-4b61-b4ef-ceffcb9dd1c3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://74877567274297",
+        "size": 2.8354892730713
+      },
+      "uid": "722d8de5-1cfb-4819-81d6-298bdb6059c0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://77838820314519",
+        "size": 1.9610157012939
+      },
+      "uid": "9ec17624-0d13-43b9-b2d9-c0f799824302",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://88702854033075",
+        "size": 1.4696937799454
+      },
+      "uid": "2b7b3960-1e70-44e2-9536-1997caa77441",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://85289094668567",
+        "size": 2.8284447193146
+      },
+      "uid": "76445430-2c5a-42d6-b1bd-1be370fcffca",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://130297421910083",
+        "size": 1.2464480400085
+      },
+      "uid": "95a420a0-cd62-4c78-8c5f-1f074f0509ce",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://92633717954289",
+        "size": 3.4641015529633
+      },
+      "uid": "783e7cfb-70ff-4a3d-a3ed-82e80cf96ae5",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://76386202743409",
+        "size": 1.7320507764816
+      },
+      "uid": "5333ffcf-528f-4638-a5ef-62b94004ad98",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://124619095848853",
+        "size": 3.4641020298004
+      },
+      "uid": "ac6e9492-4941-4431-a008-8f848b62ec15",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Debris Ring",
+      "tags": ["ring", "debris"],
+      "inner": {
+        "uri": "rbxassetid://74297329961380",
+        "size": 1.8639098405838
+      },
+      "uid": "40d7881c-edc5-4ed8-8f9c-7412adb291e8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://115618582036240",
+        "size": 1.7420393228531
+      },
+      "uid": "c5228ff2-201d-4e2c-8dfc-a8b701bae079",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://133674682354553",
+        "size": 3.201562166214
+      },
+      "uid": "edb4544e-57b6-4f51-acfc-4fb5c9caffb1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117845278384190",
+        "size": 2.2715632915497
+      },
+      "uid": "cc3b7c68-78f1-4621-8fb5-252644cea79d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17475664256", "size": 2.4494898319244 },
+      "uid": "99de22e2-553b-46dc-b9db-bd5569ed708e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://80940047264664",
+        "size": 1.4282857179642
+      },
+      "uid": "326d3c63-ce26-463c-b17d-9dcef04646bd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://104860800019615",
+        "size": 1.930969953537
+      },
+      "uid": "8be30f7c-aca2-42be-ae71-f2ff005bd319",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://80323888643311",
+        "size": 3.4641015529633
+      },
+      "uid": "06bab3cb-6866-4ff6-923f-f8e43be6216c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://128349607761265",
+        "size": 3.4641015529633
+      },
+      "uid": "4baf144e-27f6-4ac2-b426-5f84a05b54f9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136108089633614",
+        "size": 3.4641015529633
+      },
+      "uid": "c70187fc-833f-4cba-b278-b4eca05c1868",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116973507396965",
+        "size": 2.8301944732666
+      },
+      "uid": "dd228634-67f4-4d29-9b4b-f18b770ef7a5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": { "uri": "rbxassetid://76680778039311", "size": 3.201562166214 },
+      "uid": "f2b11a72-cc50-4af7-be1b-120c287873cf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97418253325141",
+        "size": 2.2715632915497
+      },
+      "uid": "a378ce26-f696-4341-b791-d43f13d3e412",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://138287682219147",
+        "size": 1.7320507764816
+      },
+      "uid": "30e94b14-1f39-4bd9-9f3a-b006b421a90b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://104971354290242",
+        "size": 1.2959716320038
+      },
+      "uid": "1e288bb7-bf85-47e9-becb-557f4bbbd621",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": { "uri": "rbxassetid://124636965807560", "size": 1.5 },
+      "uid": "e6917bd4-9ce9-428e-85c2-852c48d63948",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://74702679904893",
+        "size": 3.4641015529633
+      },
+      "uid": "124200c2-6ed1-48ac-aceb-c3b276b71414",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://112907129988951",
+        "size": 3.4641015529633
+      },
+      "uid": "d2573408-100d-4652-af9a-5b74a50de116",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103795452840953",
+        "size": 1.4696937799454
+      },
+      "uid": "0e97f06c-cd20-40e3-b0d1-aa184c9c74a4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://75825121452693",
+        "size": 2.8394541740417
+      },
+      "uid": "dda02ecd-e744-4729-8a36-ba4163fa6fa9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97879685270242",
+        "size": 3.8105118274689
+      },
+      "uid": "7166ef96-21ea-4dfb-9bd0-6cddd029f264",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138893407105963",
+        "size": 3.4641015529633
+      },
+      "uid": "b7bc3b03-51f7-4442-bd37-3d59e6535d45",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://129336179249609",
+        "size": 3.4641015529633
+      },
+      "uid": "f347f1d8-788e-4dde-bf71-411c7159e2c2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://118563433759268",
+        "size": 3.4641015529633
+      },
+      "uid": "a82bc6c9-0f53-4e9a-871a-71c9def45547",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://107346326926338",
+        "size": 2.8394541740417
+      },
+      "uid": "46362a0e-eb1c-4ecf-8083-939b2c4586dd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96261143068178",
+        "size": 2.2715632915497
+      },
+      "uid": "9ee60052-e16c-4e09-9f6f-526124cf8b28",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://102632355986575",
+        "size": 3.0000002384186
+      },
+      "uid": "e306ede7-53a9-424e-a908-f4b4aee81a8f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://117162219383154",
+        "size": 2.8394541740417
+      },
+      "uid": "bd1723ef-4969-41b7-813a-97f5d66554ec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://120905933719958",
+        "size": 2.8354892730713
+      },
+      "uid": "a7edfeeb-142c-4b36-b017-bf58efd50772",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://106484854436138",
+        "size": 3.4641032218933
+      },
+      "uid": "71fe167d-4880-4327-bedd-12041cf7f229",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://134697620464961",
+        "size": 2.8394541740417
+      },
+      "uid": "40982149-3ad5-457c-b7e4-0028ad7d503c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://102652718531108", "size": 3 },
+      "uid": "c58ddfaf-6085-4f4f-b2e9-a96f73d0e792",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138690309884488",
+        "size": 2.8354892730713
+      },
+      "uid": "4c2c4152-124d-4078-ab4a-3a79befaa2f4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136658213247311",
+        "size": 3.4641015529633
+      },
+      "uid": "5adea52a-171a-4e66-bc8a-d743cf423c38",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://138685017745528",
+        "size": 1.2042636871338
+      },
+      "uid": "4511f067-2254-4804-a1f9-5b68c6c66daf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://122692074511106", "size": 3 },
+      "uid": "b67b3d26-fbd7-4b45-bd1a-240450cf1658",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://104543262216379",
+        "size": 2.8354892730713
+      },
+      "uid": "78038585-e92c-4062-8301-0938d5801dd4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://80531218938891",
+        "size": 3.4641015529633
+      },
+      "uid": "45063375-ddd9-426e-845b-b21fe0322a34",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://101625702069409",
+        "size": 1.7089493274689
+      },
+      "uid": "64da4d1b-2c56-4c88-acae-138963569acf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://94592779137541",
+        "size": 3.4641015529633
+      },
+      "uid": "f07e71f5-578c-4e7e-9b10-780c657f7610",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://138879380743458",
+        "size": 1.594330906868
+      },
+      "uid": "00a343fe-be68-4317-a6a8-50fc5496be0d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://87214233127266",
+        "size": 1.4696937799454
+      },
+      "uid": "80109fe8-026d-4cfd-b577-daff64421e14",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://86218210523879",
+        "size": 2.8394541740417
+      },
+      "uid": "7c406512-a653-41dd-9a99-fba580f14a6d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17439184666", "size": 1.4361406564713 },
+      "uid": "19cea05d-e94c-4077-8dc8-637e593104d2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://76238854749254",
+        "size": 3.4641015529633
+      },
+      "uid": "81cafc6e-1e69-47a4-807f-fa1fa2b37ae6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Horn",
+      "tags": ["horn"],
+      "inner": {
+        "uri": "rbxassetid://135060275197547",
+        "size": 1.5016657114029
+      },
+      "uid": "118e5fc4-22f4-46eb-860e-eb3878a0be66",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://129812282308173",
+        "size": 2.2449944019318
+      },
+      "uid": "42394d6f-a6dd-4c8b-b335-b27cea0d07e0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://93070464450641",
+        "size": 1.3208900690079
+      },
+      "uid": "e82a4f41-0572-42f6-a56d-f18bfdfecea2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117019151509133",
+        "size": 2.2715632915497
+      },
+      "uid": "bac8eb24-85ff-4cb0-bf5e-049c9fb829de",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": { "uri": "rbxassetid://97541993024591", "size": 1.5 },
+      "uid": "00e8d69d-12c0-4f3c-836c-4646cab13202",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89629154312446",
+        "size": 3.4641015529633
+      },
+      "uid": "fbec5b16-d186-478c-af37-d5dea7efbf7d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://78700442504127",
+        "size": 3.4641015529633
+      },
+      "uid": "24f8da90-a5bc-46a7-913f-b690cff9a360",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": { "uri": "rbxassetid://15923904600", "size": 2.8722813129425 },
+      "uid": "0cad2d79-4bb5-4725-a26d-2f9cf62938bb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://104873867506196",
+        "size": 2.8394541740417
+      },
+      "uid": "58c6fd4f-8a3d-4b80-9713-ee31319cca56",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://95639904224921",
+        "size": 1.7320507764816
+      },
+      "uid": "f914ae2c-6656-4a89-9aef-088a6d932d4d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://91135561651948",
+        "size": 1.6248078346252
+      },
+      "uid": "c5424eae-bb1d-4754-b82f-475f0528fd60",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://130834787208083",
+        "size": 1.6239769458771
+      },
+      "uid": "bec1b0d8-84b9-4dd7-9ca6-f90c2bd4b6d6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://114249875445750",
+        "size": 3.4641015529633
+      },
+      "uid": "ac1cfc5b-dfbc-43e5-9702-e903bbb636a0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://134070077677151",
+        "size": 2.8722813129425
+      },
+      "uid": "2389ff92-d67a-4c0d-81ec-8d49a676691d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://102071107845487",
+        "size": 3.4641015529633
+      },
+      "uid": "9b2b1056-4152-4b3a-a2d1-24cb80e4b1e5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://120290759350565",
+        "size": 1.4150972366333
+      },
+      "uid": "15417dcb-7a56-43cb-ab73-73db4f5ae328",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://109957944952808",
+        "size": 1.7320507764816
+      },
+      "uid": "3db5fc57-78eb-4be0-8400-601fb1620054",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://93917004813821",
+        "size": 2.8394541740417
+      },
+      "uid": "7c040670-8e43-4ee3-97d5-099e2245f47c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108845994312436",
+        "size": 2.2715632915497
+      },
+      "uid": "fd69d089-c119-4586-bbe3-7af8558f78b1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond/Gem Shaped",
+      "tags": ["gem", "diamond"],
+      "inner": {
+        "uri": "rbxassetid://138958639186893",
+        "size": 3.201562166214
+      },
+      "uid": "72a88ff9-073c-489b-a3cf-1abf7dacd763",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://16794475003", "size": 3.4641015529633 },
+      "uid": "d3909332-a58f-45b5-b7d3-bac1e0caeccb",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://105842066679915",
+        "size": 2.8722813129425
+      },
+      "uid": "f85d72c0-a647-417f-9af2-93d20b9f17aa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://91626673627057",
+        "size": 2.8394541740417
+      },
+      "uid": "6a6867fc-7dec-4215-86be-443d5ba4a389",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://123427662464137",
+        "size": 3.201562166214
+      },
+      "uid": "88f31e16-ac1c-4cfe-ac70-22988b277b87",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": { "uri": "rbxassetid://123425474097991", "size": 1.5 },
+      "uid": "3634e271-b9cb-4e44-9a5c-b556d709ae11",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://86633647182728",
+        "size": 2.0214083194733
+      },
+      "uid": "95a799e8-0ed7-4ce9-b75f-15c7f6e52f6b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://73209981659735",
+        "size": 2.8354892730713
+      },
+      "uid": "b84d8030-4e03-4d05-ae67-1895707c9c5e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://139285182243681",
+        "size": 1.2214794158936
+      },
+      "uid": "c68df834-3b96-4270-ae96-b15970eeda60",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://126030800586820",
+        "size": 3.4641015529633
+      },
+      "uid": "31e61603-5b7b-4300-921b-6fe18f0b05b1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://135926526502186",
+        "size": 3.4641015529633
+      },
+      "uid": "49bb0dea-64c4-4bfa-b994-9203a75cd138",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://110921834603412",
+        "size": 3.4641015529633
+      },
+      "uid": "82ea0242-e0c1-488e-b927-4276860bc29b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://136032497890677",
+        "size": 3.4641015529633
+      },
+      "uid": "10a2806d-216d-4734-afd5-89b2fd82ce62",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://135449824161230",
+        "size": 2.0976176261902
+      },
+      "uid": "288ab104-e724-42f6-83f4-240b3aff8b77",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://123349909345794",
+        "size": 3
+      },
+      "uid": "2b0ffb37-275c-40a1-9c80-a043b64ffc35",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Horn",
+      "tags": ["horn"],
+      "inner": {
+        "uri": "rbxassetid://91163189729111",
+        "size": 2.4596748352051
+      },
+      "uid": "1a941a26-3ab1-4561-b091-6e38cf171b74",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": { "uri": "rbxassetid://92801086056098", "size": 2.844292640686 },
+      "uid": "d50989d2-0cc6-4757-8062-2f07273a5547",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://16639079536", "size": 1.4361406564713 },
+      "uid": "f5d667dc-2739-4329-806c-43c24ca6bb34",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://74386586220086",
+        "size": 3.4641015529633
+      },
+      "uid": "9691f5bb-c0f2-4d36-8d66-781afc44b1de",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://117308988733988",
+        "size": 1.5892215967178
+      },
+      "uid": "34b9fc9e-3937-49aa-9102-35bfc0694399",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://85501819970079",
+        "size": 2.8394541740417
+      },
+      "uid": "a4bcd927-dcc3-4fb3-bc58-1f31480e4b9f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://117217061536837",
+        "size": 2.8354892730713
+      },
+      "uid": "850a3c8e-8ddd-447a-a940-8470fa3c9955",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://120312235603599",
+        "size": 3.4641015529633
+      },
+      "uid": "5b2292b8-bc25-4dd5-bdaf-7a90fc818b2f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://127955561492810",
+        "size": 2.8324017524719
+      },
+      "uid": "72c0dc9c-dc9a-4765-beac-d7a657d98515",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136113042931911",
+        "size": 3.4641015529633
+      },
+      "uid": "a1cc0e24-0527-4091-95ab-854d57bf4e86",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://109531842225332",
+        "size": 1.4568802118301
+      },
+      "uid": "c68cf202-9b5f-4c06-836e-49a49b85273c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://105611174217186",
+        "size": 1.683984041214
+      },
+      "uid": "1867321e-d208-4e4d-aaf2-2cb81494571f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": {
+        "uri": "rbxassetid://140610426765352",
+        "size": 3.0031514167786
+      },
+      "uid": "a1dec19d-fadb-4db7-bca9-9e8271a17e81",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://72508152145697",
+        "size": 3.4641015529633
+      },
+      "uid": "8d05f65d-7caa-489f-b52c-0c31fca9edf9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81348961074867",
+        "size": 2.2715651988983
+      },
+      "uid": "d0e865b3-0dbd-4c92-9c36-aef6246657fe",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Horn",
+      "tags": ["horn"],
+      "inner": {
+        "uri": "rbxassetid://135378373928716",
+        "size": 1.1747339963913
+      },
+      "uid": "b5c565c4-66ce-4e38-a151-f527ef813c92",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://95750256387420",
+        "size": 2.1448793411255
+      },
+      "uid": "15abccfe-b9ed-418d-b959-d2f422ad6a5d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99789564473206",
+        "size": 3.4641015529633
+      },
+      "uid": "9c62ee65-cde6-4348-b0de-2b888ee841c9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://130673151592299",
+        "size": 1.7320507764816
+      },
+      "uid": "90080ffe-0078-48a1-8afe-9a222987b762",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116063995848601",
+        "size": 2.2715632915497
+      },
+      "uid": "fda9c3a0-2d06-4b47-aa77-821c60dd373a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": { "uri": "rbxassetid://13295282128", "size": 2.8354892730713 },
+      "uid": "25044b99-fc33-49ef-be4e-f74db9538b08",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://72151148825512",
+        "size": 1.7320507764816
+      },
+      "uid": "6fa5c51c-66ab-4e91-858e-81903777d63f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://91067108127925",
+        "size": 3.4641015529633
+      },
+      "uid": "9c48da62-fe81-4e3e-b7e7-7a8328461851",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://123107161008074",
+        "size": 2.8324017524719
+      },
+      "uid": "49b3d6ec-5a3b-4c76-9119-5cc20fafd07c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://93954684348844",
+        "size": 1.2859106063843
+      },
+      "uid": "77ad6a2d-e59d-456e-9525-ac14d0825170",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17475682395", "size": 2.4494898319244 },
+      "uid": "7e3b5cab-54a9-4b9c-90f8-ff12541c042d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://73914227915042",
+        "size": 3.4641015529633
+      },
+      "uid": "a3335bd9-8f6a-47b7-81ef-2c75ee9eae3c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": { "uri": "rbxassetid://13490279232", "size": 3.4606375694275 },
+      "uid": "b26b859f-d329-44c7-b96e-a0a1f16cb31e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138958259989783",
+        "size": 3.4641015529633
+      },
+      "uid": "a90c533e-2c0b-405d-94d5-800a7c52a070",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://77549136531988",
+        "size": 2.8354892730713
+      },
+      "uid": "4156e328-1de9-463e-ac33-5c32f0850f46",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108171887860031",
+        "size": 2.8324017524719
+      },
+      "uid": "5555670f-4cdd-47e3-bad7-8094c9a6bfb8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://70868960081340",
+        "size": 2.2715632915497
+      },
+      "uid": "3d8fa057-8f47-4098-bac2-2928b3c53b5c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://121401259468033",
+        "size": 3.4641015529633
+      },
+      "uid": "339f0688-893a-4a4f-a2d0-d829a966c835",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://139325056253818",
+        "size": 1.2598006725311
+      },
+      "uid": "8bced35a-46e4-4d98-a7b6-1c12e4458904",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96731811650886",
+        "size": 3.4641015529633
+      },
+      "uid": "a9c8ee3f-1c7c-455c-901b-08a76dffe49d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://124150647612309",
+        "size": 2.2449944019318
+      },
+      "uid": "dd359ba0-c40e-4192-aed6-d952065294e7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://72693624570598",
+        "size": 1.4696937799454
+      },
+      "uid": "09dc0162-2113-4420-9f97-cf3ebe1b8090",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://109020250470054",
+        "size": 1.4282857179642
+      },
+      "uid": "0c8234f2-767d-4870-9e6a-0a2614ba0997",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://130826685550105",
+        "size": 1.7320507764816
+      },
+      "uid": "ece5856d-d691-4b49-9bc5-a8205f61676f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://89750870284822", "size": 3 },
+      "uid": "4c16cb39-937f-4614-91be-f113465d1e07",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://125809081969753",
+        "size": 3.4641015529633
+      },
+      "uid": "092789f7-7d8a-4a51-bc4d-c5f79568571f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116129648527543",
+        "size": 2.2715632915497
+      },
+      "uid": "71e05b7e-875c-4f18-9db1-242d53b291b3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": {
+        "uri": "rbxassetid://89181141853971",
+        "size": 2.8222892284393
+      },
+      "uid": "6e83fefd-6546-4cfc-9eb9-7df62b731a36",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81691642495576",
+        "size": 2.8394541740417
+      },
+      "uid": "68ce20b3-653b-4c74-9538-8d7dc9950808",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96579733250018",
+        "size": 1.4696937799454
+      },
+      "uid": "3fd82710-4e69-482c-919e-92af2ae49d0c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://103786316453217",
+        "size": 1.873060464859
+      },
+      "uid": "fec61d11-716c-4c93-a6db-5e1facb377c2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://126270595007780",
+        "size": 2.8354892730713
+      },
+      "uid": "bd3aa7ae-17cc-45c0-9cd0-4cdda3150d22",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://103416991133298",
+        "size": 2.8418657779694
+      },
+      "uid": "34141e9d-0e03-4e85-a01b-920a211072cb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://72821953222268", "size": 3 },
+      "uid": "19e52f15-bac7-42d9-a794-299f4e782214",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://118959543744468",
+        "size": 2.2715632915497
+      },
+      "uid": "42cdedf2-c96b-4159-ad1f-e258bea1bea3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://85208756930086",
+        "size": 2.8369700908661
+      },
+      "uid": "bd89f662-55f5-4e3e-b4eb-e657d5522750",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://136818555397634",
+        "size": 2.8394541740417
+      },
+      "uid": "c12507fb-42fb-4cb7-b88a-86de2a8821fa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://71743778362957",
+        "size": 3.8105113506317
+      },
+      "uid": "745de990-ed5e-4d89-8563-4900f838073d",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://136863263713808",
+        "size": 2.1429769992828
+      },
+      "uid": "1339571d-f8fe-4b33-ae16-12f95b0f6d67",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://86984141064723",
+        "size": 1.2502204179764
+      },
+      "uid": "d2d688a3-f6ad-4020-b194-bc588f6d1788",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://86847268780699",
+        "size": 2.8071322441101
+      },
+      "uid": "834559ce-5b45-49d4-a519-f8d898562211",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://111831494249695",
+        "size": 3.4641032218933
+      },
+      "uid": "46c106b2-b4d9-4d8b-b34b-dbe1ce67cbd3",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Horn",
+      "tags": ["horn"],
+      "inner": {
+        "uri": "rbxassetid://116236769734556",
+        "size": 1.1747339963913
+      },
+      "uid": "58b2e7ca-9472-49ce-9ddf-117d66cfa8b8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://73731559976727",
+        "size": 1.7320507764816
+      },
+      "uid": "e3051349-54de-4ccc-91f1-5446451a9596",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17475352580", "size": 2.4494898319244 },
+      "uid": "a3e1f89a-93de-4b47-b472-eeea0f0ca5f2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cut Sphere",
+      "tags": ["cut", "sphere"],
+      "inner": {
+        "uri": "rbxassetid://117819591708950",
+        "size": 1.7338713407516
+      },
+      "uid": "0d676e5c-4742-465d-aba3-ed9c92bf36f5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://84895326029512",
+        "size": 2.2715632915497
+      },
+      "uid": "4d8209ed-2e6a-4a17-a591-9bc3442c0cbe",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://90760239334547",
+        "size": 2.1823153495789
+      },
+      "uid": "0ecffb97-676d-47f4-8280-b52c7666cc0f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://121777335217971",
+        "size": 2.4494898319244
+      },
+      "uid": "fcc90521-b562-4487-8ee3-9c12f05e35d4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://90478723633863",
+        "size": 2.8394541740417
+      },
+      "uid": "6bf38c9d-99f5-45bf-8e0f-f8d4a4a3e6ee",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://97860277390610",
+        "size": 1.7285866737366
+      },
+      "uid": "9dc34ad3-2d4a-4af6-aeab-32ca990b3349",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://124281579542369",
+        "size": 2.8722813129425
+      },
+      "uid": "d4a3cdf7-59b7-4b64-825c-9244f2515d37",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Misc",
+      "tags": ["misc"],
+      "inner": { "uri": "rbxassetid://101338214567292", "size": 3 },
+      "uid": "8bd94c06-2179-4520-aba3-4e36f2ab30ff",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://77533161223172",
+        "size": 3.4641017913818
+      },
+      "uid": "d8fd00bc-e8a1-4798-8bc0-84fe02333ae4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://110984579415993",
+        "size": 3.201562166214
+      },
+      "uid": "bf3c2800-832e-4823-804d-d1239f95864a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://126268154925146",
+        "size": 2.8394541740417
+      },
+      "uid": "c0d15858-7ce1-4df8-a263-ef45bfcc6dd9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://79966301558007",
+        "size": 2.2715632915497
+      },
+      "uid": "c306146e-8d9f-438b-884f-96efbd751379",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://71026145291309",
+        "size": 2.8369700908661
+      },
+      "uid": "e93da06c-0b88-4fd9-b3c8-792b0639605d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://99929614002524",
+        "size": 1.4568802118301
+      },
+      "uid": "7125fa74-3921-4a02-af92-604aad7e9607",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://137776179915966",
+        "size": 1.2436339855194
+      },
+      "uid": "8795943a-92e6-49b9-b513-e2c96bb4998b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Inverted",
+      "tags": ["inverted"],
+      "inner": {
+        "uri": "rbxassetid://80921291130949",
+        "size": 3.4641015529633
+      },
+      "uid": "2e1e442d-4c2e-474f-ae9f-aa65abc474ce",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://118732383542732",
+        "size": 3.4641015529633
+      },
+      "uid": "1737679e-a6e8-4f7e-be2f-2eee070c702d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136849552866154",
+        "size": 3.4641015529633
+      },
+      "uid": "46983454-81d7-401f-831c-3128297624ec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://97075202948499",
+        "size": 3.4641015529633
+      },
+      "uid": "4da457b8-c0d0-4208-b28a-e57bf24e1da6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://135957130514859",
+        "size": 3.4641015529633
+      },
+      "uid": "23d78599-5880-40ff-a4af-44a54bbeb33c",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://130541273919595",
+        "size": 3.4641015529633
+      },
+      "uid": "e548dd80-39f0-43c1-b446-1f2d1fd881d6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://124751891255457",
+        "size": 1.6039601564407
+      },
+      "uid": "eb2b8022-5f92-44af-9e1a-c745a323796e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://113793156084744",
+        "size": 1.2725287675858
+      },
+      "uid": "bf7c4c22-8328-4883-9830-2beff728502f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://72682063329423",
+        "size": 2.2585337162018
+      },
+      "uid": "d59febce-7796-4600-b63f-9aa3afb93a87",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://84574639161581",
+        "size": 3.8105113506317
+      },
+      "uid": "5a64bd8d-213e-401e-9912-b24a0c434c34",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://88355466237642",
+        "size": 2.8324017524719
+      },
+      "uid": "285c0922-4dfb-4dde-b747-3b8f5e1970ec",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://139037997122660",
+        "size": 2.8394541740417
+      },
+      "uid": "e835d618-082c-467a-b42c-74a06a928457",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78091008913478",
+        "size": 3.4641015529633
+      },
+      "uid": "35e90d2b-3854-415b-844a-35d7cb2f18b6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Fancy",
+      "tags": ["fancy"],
+      "inner": {
+        "uri": "rbxassetid://71966506317161",
+        "size": 2.2022714614868
+      },
+      "uid": "e60cd87e-2a0e-4253-afae-192be1a0724e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": { "uri": "rbxassetid://18182317124", "size": 1.7320507764816 },
+      "uid": "d8f27d16-956e-47c1-848d-948c85ff86ac",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://81996497840897",
+        "size": 2.8394541740417
+      },
+      "uid": "bd1d4f7b-43db-4f59-8c83-899eb853cdd6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://96940962689507",
+        "size": 1.7320507764816
+      },
+      "uid": "16bcafe3-ae77-4a71-96d1-fafb4e2ae0dd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://124457269188183",
+        "size": 2.8354892730713
+      },
+      "uid": "c11b93ee-b4d8-4f73-aa17-e47e5725131b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://125656816219728",
+        "size": 2.2715632915497
+      },
+      "uid": "f48e39db-80b3-4f99-be1c-7dca9aa88aea",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://134774144368066",
+        "size": 1.4696937799454
+      },
+      "uid": "42ebdaa9-cd45-491b-bf30-88d8fa77d990",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://79714487173321",
+        "size": 1.7320507764816
+      },
+      "uid": "5966cf97-9c60-4137-8566-ff8666fddd33",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://73524236805624",
+        "size": 2.1527082920074
+      },
+      "uid": "51b99375-56db-4357-b9d1-57d334fbe792",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78436209733754",
+        "size": 3.4641015529633
+      },
+      "uid": "87ad71d9-455e-4b0c-a5f4-99978c9988b6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://101761094275764",
+        "size": 3.4641015529633
+      },
+      "uid": "1979d136-9958-462a-845a-2e29f16630bb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://78414025232594",
+        "size": 1.1657346487045
+      },
+      "uid": "f39468f5-340e-4fe7-8974-32a46bfdb4fb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://75304421605254",
+        "size": 2.8722813129425
+      },
+      "uid": "a1fc1ad4-94f3-486d-bb81-29fb405aa3dc",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://139269896750799",
+        "size": 3.4641015529633
+      },
+      "uid": "6dcd83a4-027d-4071-85dc-7e5d4b2e4977",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://138984687644382",
+        "size": 2.8354892730713
+      },
+      "uid": "71a7ed68-a8d7-4877-9cb5-21c757c8dd56",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://136766445259746",
+        "size": 3.8105113506317
+      },
+      "uid": "1350506a-bf8d-43c1-af1e-f247ef2b1418",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://134940360969072",
+        "size": 1.4282857179642
+      },
+      "uid": "71c8165c-24d8-43d3-913f-0022f97aee40",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Slope",
+      "tags": ["slope"],
+      "inner": {
+        "uri": "rbxassetid://79376191307153",
+        "size": 3.4641015529633
+      },
+      "uid": "8c73049d-a802-4c18-88e3-529b201e8224",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://98210524169673",
+        "size": 2.8722813129425
+      },
+      "uid": "0bfc74b7-8c59-460f-9938-0d9b58c1f2bf",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://103748134777219",
+        "size": 1.4361406564713
+      },
+      "uid": "6beb0c40-c4bb-469f-8293-a8dd197397d1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://92635612933608",
+        "size": 2.1728756427765
+      },
+      "uid": "ec241220-38f8-4dcd-aea3-a9899faa8440",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://87414589334249",
+        "size": 3.4641015529633
+      },
+      "uid": "77eb1ab1-6999-42d4-b909-bf22865609c7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://103573620053255",
+        "size": 3.4641015529633
+      },
+      "uid": "1ab19719-fba6-4445-b4ee-0c0ff72dfb52",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113533235829195",
+        "size": 3.4641015529633
+      },
+      "uid": "4a2ca9d8-d266-416f-ba5f-8937f105d42a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://116980124784842",
+        "size": 3.4641032218933
+      },
+      "uid": "9d4a598f-8f26-41f1-b3f2-0eb3f84e3200",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://87492128368151",
+        "size": 2.8722813129425
+      },
+      "uid": "d9d4581d-73c8-4bc4-943c-553540f284d4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://85670371692292",
+        "size": 3.4641029834747
+      },
+      "uid": "ba655ff8-6488-4be8-8f12-95be5fa8a89d",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://99846068760376",
+        "size": 3.4641017913818
+      },
+      "uid": "59c711a9-99d0-4015-9076-bcdbe54b2d81",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://84070549623100",
+        "size": 3.4641015529633
+      },
+      "uid": "037767e7-c086-49af-9977-2b78a3f95d2e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://129690732495043",
+        "size": 2.8301944732666
+      },
+      "uid": "6a30f401-0ef4-46bb-bcf8-4da968e7d11e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://108366490290171",
+        "size": 1.5339827537537
+      },
+      "uid": "27092dbd-bfe1-4825-a2ef-75fc8b6ee0fd",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://78212066023020",
+        "size": 1.2741776704788
+      },
+      "uid": "571abc30-1f80-4192-8693-3b6370abc4fb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://72210505665183",
+        "size": 2.8394541740417
+      },
+      "uid": "4cae1b14-ab84-499a-b54d-454d1a4a415c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://80247829503560",
+        "size": 3.4641015529633
+      },
+      "uid": "537bf28a-fe45-443d-8c47-5d82ecdec5e0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://132617870747004",
+        "size": 1.7320507764816
+      },
+      "uid": "ef88c05d-4c61-4602-bc84-9a0a7413b13e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://76843076349228",
+        "size": 2.2449944019318
+      },
+      "uid": "a8dbf1dd-e6f6-4344-b500-6b4e8f561969",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://123957301137926",
+        "size": 2.8394541740417
+      },
+      "uid": "5c03ed79-14d9-481c-94f7-31b9eabc606f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://113084597279610",
+        "size": 3.201562166214
+      },
+      "uid": "b53aae35-a191-43e2-ad75-e8d1236f8311",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://93385374209461",
+        "size": 2.8722813129425
+      },
+      "uid": "f6e97e93-97a8-4abe-a6a9-3448ff2acf94",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://94348029383023",
+        "size": 2.8354892730713
+      },
+      "uid": "99579ce9-47a7-4ebb-bcdc-3ddb19266f32",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://92290303816646",
+        "size": 2.8301944732666
+      },
+      "uid": "ccbf78ed-d309-4dc4-9c21-8b846b442257",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97802906486282",
+        "size": 3.4641015529633
+      },
+      "uid": "42a05637-0c75-4d70-a57a-49e415b1b3b5",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://119966403654542",
+        "size": 3.8105113506317
+      },
+      "uid": "bd57f6ae-7712-4cd6-a552-fde995a36c35",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://83925752652734",
+        "size": 1.9309697151184
+      },
+      "uid": "f0a81c0e-7c50-4d33-8395-5d8e47b73503",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://110314832840337",
+        "size": 2.0157449245453
+      },
+      "uid": "e581c353-796f-4f51-a65e-958e07acbfd1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://107652146241762",
+        "size": 3.0822069644928
+      },
+      "uid": "ea4e095f-275b-4973-83b3-484a475e803e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://137630146578608",
+        "size": 3.464102268219
+      },
+      "uid": "81615e91-f493-4536-8604-6941e7019143",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://98299099727063",
+        "size": 1.5947395563126
+      },
+      "uid": "b389114f-eeca-46dd-8709-82e7f21c0fc0",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "textureUri": "rbxassetid://7265756294",
+        "uri": "rbxassetid://140508775097793",
+        "size": 3.4641025066376
+      },
+      "uid": "ba11b6b9-69c6-4161-acfe-1bc72a586bfa",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": { "uri": "rbxassetid://16794475090", "size": 3.8105113506317 },
+      "uid": "dae1cce1-e80f-4dfd-b2a7-fa8caea32f9c",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://139009530508050",
+        "size": 1.974560379982
+      },
+      "uid": "a41bbfd8-f1fa-4cf7-b430-852685550a82",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://110250225413045",
+        "size": 2.8354892730713
+      },
+      "uid": "22a89c2c-1ac8-4965-90dc-83834ae31c71",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://117574565441564",
+        "size": 1.6083344221115
+      },
+      "uid": "5f080b37-4cb2-49ca-8339-2639c2ecdcb9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://90680077339349",
+        "size": 2.8722813129425
+      },
+      "uid": "e21de1cd-890b-495e-b995-adf004df5df4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://97001107159314",
+        "size": 3.4641015529633
+      },
+      "uid": "80257f02-3809-4eba-b7fa-0bbee4e349d5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Ring",
+      "tags": ["ring"],
+      "inner": {
+        "uri": "rbxassetid://117372244769253",
+        "size": 1.7320507764816
+      },
+      "uid": "3f70f608-3e8e-42e2-bc83-1261128adb1b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://114271852536558",
+        "size": 1.7320507764816
+      },
+      "uid": "13a3acbc-3554-4bb2-a221-d5bac838424c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://134384492943340",
+        "size": 2.8394541740417
+      },
+      "uid": "4185d564-a207-4cbe-8c0c-5d83e79acf7c",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube/Square",
+      "tags": ["shape", "square", "cube", "basic"],
+      "inner": {
+        "uri": "rbxassetid://123989847153575",
+        "size": 2.8354892730713
+      },
+      "uid": "e80dd2a1-bf8a-42b4-953e-04b48f11f117",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://108110380469801",
+        "size": 2.8354892730713
+      },
+      "uid": "bc940acb-29f3-4ec7-ab16-65ed1ea17976",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://72318849044170",
+        "size": 1.6630125045776
+      },
+      "uid": "e1f1813d-726e-4024-be1a-dbd37914a957",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": {
+        "uri": "rbxassetid://83421685768390",
+        "size": 1.8979790210724
+      },
+      "uid": "3c8ce1d5-7a55-4d22-9d72-5bd3583f0f06",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Decagon",
+      "tags": ["decagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://139411077186727",
+        "size": 2.8354892730713
+      },
+      "uid": "220acd5f-74b3-4bd8-bd1b-79455e03168e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cube",
+      "tags": ["cube"],
+      "inner": {
+        "uri": "rbxassetid://86890143941091",
+        "size": 1.7320507764816
+      },
+      "uid": "d2739b19-6e0a-4e1e-b2fe-8b8558ad2530",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://83966816133811",
+        "size": 3.4641015529633
+      },
+      "uid": "c4a163ed-9d8e-45af-a8c7-11e03e97689f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rune",
+      "tags": ["rune"],
+      "inner": { "uri": "rbxassetid://99510107262730", "size": 1.656238079071 },
+      "uid": "c8deb944-57c2-4225-923c-bc02260e817b",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://123865314897748",
+        "size": 1.895956993103
+      },
+      "uid": "dfd6ac51-790c-4989-9238-6da74caf22d4",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Sign",
+      "tags": ["sign"],
+      "inner": {
+        "uri": "rbxassetid://109999605972826",
+        "size": 2.8394541740417
+      },
+      "uid": "f1649bf4-e436-4797-8c3d-5afe77538cb1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Dodecagon",
+      "tags": ["dodecagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://78545692836294",
+        "size": 1.4696937799454
+      },
+      "uid": "d08377c3-8662-454a-8e4c-d7f1ca80302f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": { "uri": "rbxassetid://17439184651", "size": 1.4361406564713 },
+      "uid": "351e54de-ee34-4113-8773-f06d07b4ba3a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://140648310709138",
+        "size": 3.4641015529633
+      },
+      "uid": "da1821d4-1cc2-4607-9ce4-517daf565395",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Pentagon",
+      "tags": ["pentagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://105084813197621",
+        "size": 2.8722813129425
+      },
+      "uid": "fb9254c9-0f21-4993-af25-3af109a507ef",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Rock",
+      "tags": ["rock"],
+      "inner": {
+        "uri": "rbxassetid://112861863860040",
+        "size": 1.7320507764816
+      },
+      "uid": "03a28365-3157-4372-8219-073bf2a9958f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Diamond",
+      "tags": ["diamond", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://100340096693795",
+        "size": 3.4641015529633
+      },
+      "uid": "5938bbf1-7e97-4d6e-97be-e65674f826f7",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://109924430472654",
+        "size": 3.260675907135
+      },
+      "uid": "79961cbe-6475-47a8-8163-bf5d17f75db2",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://104575319713535",
+        "size": 3.4641015529633
+      },
+      "uid": "796bb06e-994b-45e3-884c-696fe1716886",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://113912058486869",
+        "size": 2.2449944019318
+      },
+      "uid": "c1fbb11d-4597-4ef3-9b95-9c76c9f6979e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://89692113679330",
+        "size": 3.4641015529633
+      },
+      "uid": "d6f7c7dc-8756-48b5-a53b-c2fbd09d832f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://136374323640016",
+        "size": 1.6406911611557
+      },
+      "uid": "08d8555f-9848-4c59-8501-0309091b5f28",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://110280019921348",
+        "size": 2.8722813129425
+      },
+      "uid": "493a6962-83ed-4e4f-aebd-bf541a8836f1",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://101820552270073",
+        "size": 1.7320507764816
+      },
+      "uid": "77a68617-3748-4bcc-9743-c7e59d629071",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://119907385997510",
+        "size": 3.0822069644928
+      },
+      "uid": "b88b5ac9-86a3-4b8c-b195-2b230c1df045",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://135935490137282",
+        "size": 3.4641015529633
+      },
+      "uid": "d35d0f67-e289-4cac-8f74-a4099edb07b5",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://137850360402033",
+        "size": 2.8354892730713
+      },
+      "uid": "a7199ffc-7d93-44c8-9154-99c2fdddf038",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": {
+        "uri": "rbxassetid://98502226842580",
+        "size": 2.2449944019318
+      },
+      "uid": "d5fdc412-cf4c-401e-82f4-bfc0f42632e9",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Infinity",
+      "tags": ["sign", "infinity"],
+      "inner": {
+        "uri": "rbxassetid://125103527238264",
+        "size": 1.8248447179794
+      },
+      "uid": "b5cc084f-9371-4112-bb8f-b3d78682b82a",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Triangle",
+      "tags": ["triangle", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://83625926274702",
+        "size": 2.8354892730713
+      },
+      "uid": "52c703bd-cc42-4f1a-95ba-183b1ee3c0d8",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://127294869172785",
+        "size": 1.7808157205582
+      },
+      "uid": "808c949b-07aa-4a35-b1b3-7952536b9bad",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://121568866436826",
+        "size": 2.8354892730713
+      },
+      "uid": "a0c84531-e921-4de1-8fa3-a27fb4dede5f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Spiral",
+      "tags": ["spiral"],
+      "inner": {
+        "uri": "rbxassetid://102595404310626",
+        "size": 1.757697224617
+      },
+      "uid": "a4581db4-70d7-4802-bd29-1caa9f4361e6",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Lightning",
+      "tags": ["small", "lightning"],
+      "inner": {
+        "uri": "rbxassetid://109732042833188",
+        "size": 3.0822069644928
+      },
+      "uid": "f0b3cc35-3b7d-4623-86c6-1b670a03a10e",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Trapezoid",
+      "tags": ["trapezoid"],
+      "inner": { "uri": "rbxassetid://74027916059909", "size": 1.5 },
+      "uid": "234f7194-fc78-487d-9b0c-1f22f3bbdb34",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Star",
+      "tags": ["star"],
+      "inner": { "uri": "rbxassetid://87473158147022", "size": 3 },
+      "uid": "96cc8eff-fcf7-4440-aace-1f957c24d85f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Hexagon",
+      "tags": ["hexagon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://96366353696640",
+        "size": 2.2715632915497
+      },
+      "uid": "e46bc578-cfc1-49e9-9c4e-bc448adb14cb",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Cylinder",
+      "tags": ["cylinder"],
+      "inner": {
+        "uri": "rbxassetid://105381708597962",
+        "size": 1.4696937799454
+      },
+      "uid": "c58314e8-a803-467a-b1bb-c1782a4c9d08",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Octogon",
+      "tags": ["octogon", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://93373549524759",
+        "size": 2.8354892730713
+      },
+      "uid": "f5cd25d8-35b3-4d1e-b419-7b2adec5dd28",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Icosphere",
+      "tags": ["icosphere", "shape", "basic"],
+      "inner": {
+        "uri": "rbxassetid://120143905666665",
+        "size": 3.8105113506317
+      },
+      "uid": "181e6ac9-8008-4a5d-a90d-a87e13779347",
+      "credits": ""
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://76260068702882",
+        "size": 3.4577605724335
+      },
+      "uid": "cac79849-3f95-43f4-b98e-b445fb381d4f",
+      "credits": "Ghoost's Meshkit"
+    },
+    {
+      "type": "mesh",
+      "name": "Wireframe",
+      "tags": ["wireframe"],
+      "inner": {
+        "material": 1584,
+        "uri": "rbxassetid://111598592650261",
+        "size": 3.4641015529633
+      },
+      "uid": "64a9976c-298d-4960-96f1-731883e715ef",
+      "credits": "Ghoost's Meshkit"
+    }
+  ],
+  "description": "The many meshes",
+  "uid": "ghost/meshkit",
+  "name": "Ghooost's General Use Meshkit",
+  "conflicts": ["mrrowlabs/starlight"],
+  "version": "1.0.0",
+  "credits": "Ghost, Shiver, 1Tent",
+  "thumbnailUri": "rbxassetid://87452387096283"
+}
