@@ -3400,8 +3400,8 @@
   "description": "mostly just a collection of random stuff ive found over my vfx career that i can actually post here now",
   "uid": "fir/firs_texture_pack",
   "name": "Fir's Texture Pack",
-  "conflicts": ["metamethods/starlight"],
-  "version": "3.0.0",
+  "conflicts": ["mrrowlabs/starlight"],
+  "version": "3.0.1",
   "credits": "fir",
   "thumbnailUri": "rbxassetid://98179737470786",
   "nameThumbnailUri": "http://www.roblox.com/asset/?id=129708525849852"
