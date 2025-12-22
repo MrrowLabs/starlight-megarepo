@@ -1,7 +1,16 @@
 {
   "uid": "mrrowlabs/starlight",
   "name": "Starlight",
-  "assets": [],
+  "assets": [
+    {
+      "type": "texture",
+      "name": "Expedition 33",
+      "tags": ["33", "Expedition"],
+      "inner": { "uri": "rbxassetid://78973979792948" },
+      "uid": "e954800e-0f79-4ee9-8da6-bcdd14589dcb",
+      "credits": "Expedition 33"
+    }
+  ],
   "externalAssetRepoUris": [
     "https://raw.githubusercontent.com/MrrowLabs/starlight-megarepo/refs/heads/main/saythrt_mega_pack.repo.json",
     "https://raw.githubusercontent.com/MrrowLabs/starlight-megarepo/refs/heads/main/firs_texture_pack.repo.json",
@@ -13,6 +22,3 @@
   "credits": "metamethods, Saythrt Mega Pack, Fir's Texture Pack, Ghost's Meshkit",
   "conflicts": ["saythrt/mega_pack", "fir/firs_texture_pack"]
 }
-
-
-
